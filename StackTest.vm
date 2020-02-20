@@ -1,0 +1,20 @@
+push local 3
+push argument 5
+push constant 10
+push temp 3
+push pointer 0
+push static 6
+pop local 4
+pop argument 9
+pop temp 7
+pop pointer 1
+pop static 4
+add
+sub
+neg
+eq
+gt
+lt
+and 
+or 
+not

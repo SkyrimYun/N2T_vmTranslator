@@ -1,0 +1,18 @@
+﻿  cd.cpp
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2143: syntax error: missing ';' before '<'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2143: syntax error: missing ';' before '{'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2447: '{': missing function header (old-style formal list?)
+  main.cpp
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  pr.cpp
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2143: syntax error: missing ';' before '<'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2143: syntax error: missing ';' before '{'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\header.h(8): error C2447: '{': missing function header (old-style formal list?)
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\pr.cpp(72): error C2065: 'arithmetic': undeclared identifier
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\pr.cpp(73): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\pr.cpp(73): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\skyri\source\repos\vmtranslatorplus\vmtranslatorplus\pr.cpp(74): error C2065: 's': undeclared identifier
+  Generating Code...
